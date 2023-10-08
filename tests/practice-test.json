@@ -10,11 +10,11 @@
                 {
                     "answers" :
                     [
-                        {"id": 1001, "a": "Sample of a possible answer."},
-                        {"id": 1002, "b": "Sample of a possible answer."},
-                        {"id": 1003, "c": "Sample of a possible answer."},
-                        {"id": 1004, "d": "Sample of a possible answer."},
-                        {"answer": "final answer is"}
+                        {"id": 1001, "A": "1\" high and 1\" long"},
+                        {"id": 1002, "B": "To the thickness of the flooring"},
+                        {"id": 1003, "C": "Twice the thickness of the flooring"},
+                        {"id": 1004, "D": "Half the thickness of the flooring"},
+                        {"answer": "B - To the thickness of the flooring"}
                     ]
                 }
             ]
