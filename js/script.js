@@ -1,4 +1,4 @@
-console.log("connected");
+// console.log("connected");
 
 //* async data for page. calling data for the trivia
 
