@@ -38,6 +38,105 @@
                         {"id": 103.4, "D": "Either A or B"},
                         {"answer": "D - Either A or B"}
                     ]
+                },
+                {"id": 104, "quest-number" : 4, "ask" : "When mixing the patching and leveling compounds:"},
+                {
+                    "answers" :
+                    [
+                        {"id": 104.1, "A": "Place the powder into the mixing container, slowly add water, then begin mixing."},
+                        {"id": 104.2, "B": "Place the liquid into the mixing container, then add all of the powder, then begin mixing."},
+                        {"id": 104.3, "C": "Place the powder into the mixing container, then add all of the liquid while mixing."},
+                        {"id": 104.4, "D": "Place the liquid into the mixing container, then slowly add the powder while mixing."},
+                        {"answer": "D - Place the liquid into the mixing container, then slowly add the powder while mixing."}
+                    ]
+                },
+                {"id": 105, "quest-number" : 5, "ask" : "When mixing the patching compound, it is important to remember:"},
+                {
+                    "answers" :
+                    [
+                        {"id": 105.1, "A": "Not to mix the patch directly on the substrate."},
+                        {"id": 105.2, "B": "Not to use portland based products over gypsum based products."},
+                        {"id": 105.3, "C": "Not to add additional liquid the mixed patch begins to dry."},
+                        {"id": 105.4, "D": "All of the above."},
+                        {"answer": "D - All of the above."}
+                    ]
+                },
+                {"id": 106, "quest-number" : 6, "ask" : "When applying patching compound, use a steel trowel at a slight angle that is:"},
+                {
+                    "answers" :
+                    [
+                        {"id": 106.1, "A": "Less than when spreading adhesive."},
+                        {"id": 106.2, "B": "Greater than when spreading adhesive."},
+                        {"id": 106.3, "C": "Exactly half the angle as when spreading adhesive."},
+                        {"id": 106.4, "D": "Exactly twice the angle as when spreading adhesive."},
+                        {"answer": "A - Less than when spreading adhesive."}
+                    ]
+                },
+                {"id": 107, "quest-number" : 7, "ask" : "When building a ramp from one level to another during the patching and leveling process, the _________ will determine the _________ of the ramp."},
+                {
+                    "answers" :
+                    [
+                        {"id": 107.1, "A": "Height; height"},
+                        {"id": 107.2, "B": "Height; width"},
+                        {"id": 107.3, "C": "Height; length"},
+                        {"id": 107.4, "D": "Width; height"},
+                        {"answer": "B - Height; width"}
+                    ]
+                },
+                {"id": 108, "quest-number" : 8, "ask" : "To avoid reinforcing the ridges when patching and leveling, it is important to trowel ___________ ridges and chatter marks and not ___________ them."},
+                {
+                    "answers" :
+                    [
+                        {"id": 108.1, "A": "With; across"},
+                        {"id": 108.2, "B": "Parallel to; over"},
+                        {"id": 108.3, "C": "Across; with"},
+                        {"id": 108.4, "D": "Up to; over"},
+                        {"answer": "C - Across; with"}
+                    ]
+                },
+                {"id": 109, "quest-number" : 9, "ask" : "Single part embossing levellers are not recommended for deep fills due to:"},
+                {
+                    "answers" :
+                    [
+                        {"id": 109.1, "A": "Extended drying times."},
+                        {"id": 109.2, "B": "Cost of the product."},
+                        {"id": 109.3, "C": "Material composition."},
+                        {"id": 109.4, "D": "Both B amd C."},
+                        {"answer": "D - Both B amd C."}
+                    ]
+                },
+                {"id": 1010, "quest-number" : 10, "ask" : "Most water based adhesives used over embossing levelers:"},
+                {
+                    "answers" :
+                    [
+                        {"id": 1010.1, "A": "Will have shorter working times than expected."},
+                        {"id": 1010.2, "B": "Will have longer working times than expected."},
+                        {"id": 1010.3, "C": "Will not work."},
+                        {"id": 1010.4, "D": "Will have to be applied in two coats."},
+                        {"answer": "A - Will have shorter working times than expected."}
+                    ]
+                },
+                {"id": 1011, "quest-number" : 11, "ask" : "Most self-leveling products are mixed ________ and used to apply over __________."},
+                {
+                    "answers" :
+                    [
+                        {"id": 1011.1, "A": "In a small volume; small areas."},
+                        {"id": 1011.2, "B": "In a large volume; large areas."},
+                        {"id": 1011.3, "C": "By hand; small areas."},
+                        {"id": 1011.4, "D": "Before being shipped to the site; large areas."},
+                        {"answer": "B - In a large volume; large areas."}
+                    ]
+                },
+                {"id": 1012, "quest-number" : 12, "ask" : "After pouring the self-leveling product, which tool should be used to spread it over the surface of the substrate?"},
+                {
+                    "answers" :
+                    [
+                        {"id": 1012.1, "A": "Notch trowel."},
+                        {"id": 1012.2, "B": "Broad knife."},
+                        {"id": 1012.3, "C": "Screed rake."},
+                        {"id": 1012.4, "D": "Short nap roller."},
+                        {"answer": "C - Screed rake."}
+                    ]
                 }
             ]
         }        
