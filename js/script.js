@@ -10,3 +10,14 @@ async function loadQuestions() {
 }
 
 loadQuestions();
+
+
+//* ****** Materialize Dropdown Initialization ****** *//
+
+$('.dropdown-trigger').dropdown();
+
+
+//* ****** Sidebar Nav Trigger Initialization ****** *//
+$(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
