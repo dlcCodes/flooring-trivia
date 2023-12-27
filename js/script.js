@@ -37,7 +37,7 @@ async function fetchData(url) {
   
   fetchData(dataUrl)
     .then(data => {
-    //   console.log('Data:', data);
+      console.log('Data:', data);
       // Display data on page
       let getQuestions = $.ajax({
         url: dataUrl, 

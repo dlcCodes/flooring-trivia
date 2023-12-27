@@ -61,6 +61,156 @@
                     "correct": "C - Portland and Gypsum based compounds."
                 }
             ]
+        },
+        {
+            "id":3,
+           "ask":[
+            {
+                "id":1,
+                "question": "When preparing the substrate, lightweight concrete or non-porous surfaces such as ceramic tile, metal, vinyl, etc. may require priming. Apply the primer using ___________."
+            }
+           ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "A short nap roller only"
+                },
+                {
+                    "id": 2, 
+                    "B": "A course fiber brush only"
+                },
+                {
+                    "id": 3, 
+                    "C": "A trowel"
+                },
+                {
+                    "id": 4, 
+                    "D": "Either A or B"
+                },
+                {
+                    "correct": "D - Either A or B"
+                }
+            ]
+        },
+        {
+            "id":4,
+           "ask":[
+            {
+                "id":1,
+                "question": "When mixing the patching and leveling compounds:"
+            }
+           ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "Place the powder into the mixing container, slowly add water, then begin mixing."
+                },
+                {
+                    "id": 2, 
+                    "B": "Place the liquid into the mixing container, then add all of the powder, then begin mixing."
+                },
+                {
+                    "id": 3, 
+                    "C": "Place the powder into the mixing container, then add all of the liquid while mixing."
+                },
+                {
+                    "id": 4, 
+                    "D": "Place the liquid into the mixing container, then slowly add the powder while mixing."
+                },
+                {
+                    "correct": "D - Place the liquid into the mixing container, then slowly add the powder while mixing."
+                }
+            ]
+        },
+        {
+            "id":5,
+           "ask":[
+            {
+                "id":1,
+                "question": "When mixing the patching compound, it is important to remember:"
+            }
+           ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "Not to mix the patch directly on the substrate."
+                },
+                {
+                    "id": 2, 
+                    "B": "Not to use portland based products over gypsum based products."
+                },
+                {
+                    "id": 3, 
+                    "C": "Not to add additional liquid the mixed patch begins to dry."
+                },
+                {
+                    "id": 4, 
+                    "D": "All of the above."
+                },
+                {
+                    "correct": "D - All of the above."
+                }
+            ]
+        },
+        {
+            "id":6,
+           "ask":[
+            {
+                "id":1,
+                "question": "When applying patching compound, use a steel trowel at a slight angle that is:"
+            }
+           ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "Less than when spreading adhesive."
+                },
+                {
+                    "id": 2, 
+                    "B": "Greater than when spreading adhesive."
+                },
+                {
+                    "id": 3, 
+                    "C": "Exactly half the angle as when spreading adhesive."
+                },
+                {
+                    "id": 4, 
+                    "D": "Exactly twice the angle as when spreading adhesive."
+                },
+                {
+                    "correct": "A - Less than when spreading adhesive."
+                }
+            ]
+        },
+        {
+            "id":7,
+           "ask":[
+            {
+                "id":1,
+                "question": "When building a ramp from one level to another during the patching and leveling process, the _________ will determine the _________ of the ramp."
+            }
+           ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "Height; height"
+                },
+                {
+                    "id": 2, 
+                    "B": "Height; width"
+                },
+                {
+                    "id": 3, 
+                    "C": "Height; length"
+                },
+                {
+                    "id": 4, 
+                    "D": "Width; height"
+                },
+                {
+                    "correct": "B - Height; width"
+                }
+            ]
         }
     ]
 }
