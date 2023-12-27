@@ -1,12 +1,12 @@
 {
-    "floor-prep" : {
+    "floorPrep" : {
         "id" : 1,
         "section" : "1.2.1",
-        "section-title" : "Patching and Leveling",
+        "sectionTitle" : "Patching and Leveling",
         "questions" : {
             "question" :
             [
-                {"id": 101, "quest-number" : 1, "ask" : "When applying patching compound, it is a good idea to cut a notch in one side of the broad knife blade, _______________, to be used to screed around finished edges."},
+                {"id": 101, "questNumber" : 1, "ask" : "When applying patching compound, it is a good idea to cut a notch in one side of the broad knife blade, _______________, to be used to screed around finished edges."},
                 {
                     "answers" :
                     [
@@ -17,7 +17,7 @@
                         {"answer": "B - To the thickness of the flooring"}
                     ]
                 },
-                {"id": 102, "quest-number" : 2, "ask" : "The two categories of patching and leveling products are:"},
+                {"id": 102, "questNumber" : 2, "ask" : "The two categories of patching and leveling products are:"},
                 {
                     "answers" :
                     [
@@ -28,7 +28,7 @@
                         {"answer": "C - Portland and Gypsum based compounds."}
                     ]
                 },
-                {"id": 103, "quest-number" : 3, "ask" : "When preparing the substrate, lightweight concrete or non-porous surfaces such as ceramic tile, metal, vinyl, etc. may require priming. Apply the primer using ___________."},
+                {"id": 103, "questNumber" : 3, "ask" : "When preparing the substrate, lightweight concrete or non-porous surfaces such as ceramic tile, metal, vinyl, etc. may require priming. Apply the primer using ___________."},
                 {
                     "answers" :
                     [
@@ -39,7 +39,7 @@
                         {"answer": "D - Either A or B"}
                     ]
                 },
-                {"id": 104, "quest-number" : 4, "ask" : "When mixing the patching and leveling compounds:"},
+                {"id": 104, "questNumber" : 4, "ask" : "When mixing the patching and leveling compounds:"},
                 {
                     "answers" :
                     [
@@ -50,7 +50,7 @@
                         {"answer": "D - Place the liquid into the mixing container, then slowly add the powder while mixing."}
                     ]
                 },
-                {"id": 105, "quest-number" : 5, "ask" : "When mixing the patching compound, it is important to remember:"},
+                {"id": 105, "questNumber" : 5, "ask" : "When mixing the patching compound, it is important to remember:"},
                 {
                     "answers" :
                     [
@@ -61,7 +61,7 @@
                         {"answer": "D - All of the above."}
                     ]
                 },
-                {"id": 106, "quest-number" : 6, "ask" : "When applying patching compound, use a steel trowel at a slight angle that is:"},
+                {"id": 106, "questNumber" : 6, "ask" : "When applying patching compound, use a steel trowel at a slight angle that is:"},
                 {
                     "answers" :
                     [
@@ -72,7 +72,7 @@
                         {"answer": "A - Less than when spreading adhesive."}
                     ]
                 },
-                {"id": 107, "quest-number" : 7, "ask" : "When building a ramp from one level to another during the patching and leveling process, the _________ will determine the _________ of the ramp."},
+                {"id": 107, "questNumber" : 7, "ask" : "When building a ramp from one level to another during the patching and leveling process, the _________ will determine the _________ of the ramp."},
                 {
                     "answers" :
                     [
@@ -83,7 +83,7 @@
                         {"answer": "B - Height; width"}
                     ]
                 },
-                {"id": 108, "quest-number" : 8, "ask" : "To avoid reinforcing the ridges when patching and leveling, it is important to trowel ___________ ridges and chatter marks and not ___________ them."},
+                {"id": 108, "questNumber" : 8, "ask" : "To avoid reinforcing the ridges when patching and leveling, it is important to trowel ___________ ridges and chatter marks and not ___________ them."},
                 {
                     "answers" :
                     [
@@ -94,7 +94,7 @@
                         {"answer": "C - Across; with"}
                     ]
                 },
-                {"id": 109, "quest-number" : 9, "ask" : "Single part embossing levellers are not recommended for deep fills due to:"},
+                {"id": 109, "questNumber" : 9, "ask" : "Single part embossing levellers are not recommended for deep fills due to:"},
                 {
                     "answers" :
                     [
@@ -105,7 +105,7 @@
                         {"answer": "D - Both B amd C."}
                     ]
                 },
-                {"id": 1010, "quest-number" : 10, "ask" : "Most water based adhesives used over embossing levelers:"},
+                {"id": 1010, "questNumber" : 10, "ask" : "Most water based adhesives used over embossing levelers:"},
                 {
                     "answers" :
                     [
@@ -116,7 +116,7 @@
                         {"answer": "A - Will have shorter working times than expected."}
                     ]
                 },
-                {"id": 1011, "quest-number" : 11, "ask" : "Most self-leveling products are mixed ________ and used to apply over __________."},
+                {"id": 1011, "questNumber" : 11, "ask" : "Most self-leveling products are mixed ________ and used to apply over __________."},
                 {
                     "answers" :
                     [
@@ -127,7 +127,7 @@
                         {"answer": "B - In a large volume; large areas."}
                     ]
                 },
-                {"id": 1012, "quest-number" : 12, "ask" : "After pouring the self-leveling product, which tool should be used to spread it over the surface of the substrate?"},
+                {"id": 1012, "questNumber" : 12, "ask" : "After pouring the self-leveling product, which tool should be used to spread it over the surface of the substrate?"},
                 {
                     "answers" :
                     [
@@ -145,6 +145,6 @@
     "carpet" : {
         "id" : 2,
         "section" :"EXAMPLE SECTION NUMBER OF TEST",
-        "section-title" :"EXAMPLE SECTION TITLE"
+        "sectionTitle" :"EXAMPLE SECTION TITLE"
     }
 }

@@ -1,0 +1,66 @@
+{
+    "section": "1.2.1",
+    "sectionTitle": "Patching and Leveling",
+    "questions" : [
+        {
+            "id": 1,
+            "ask":[
+                {
+                    "id": 1,
+                    "question": "When applying patching compound, it is a good idea to cut a notch in one side of the broad knife blade, _______________, to be used to screed around finished edges."
+                }
+            ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "1\" high and 1\" long"
+                },
+                {
+                    "id": 2, 
+                    "B": "To the thickness of the flooring"
+                },
+                {
+                    "id": 3, 
+                    "C": "Twice the thickness of the flooring"
+                },
+                {
+                    "id": 4, 
+                    "D": "Half the thickness of the flooring"
+                },
+                {
+                    "correct": "B - To the thickness of the flooring"
+                }
+            ]
+        },
+        {
+            "id":2,
+           "ask":[
+            {
+                "id":1,
+                "question": "The two categories of patching and leveling products are:"
+            }
+           ],
+            "answer":[
+                {
+                    "id": 1, 
+                    "A": "Portland and skim coat based compounds."
+                },
+                {
+                    "id": 2, 
+                    "B": "Gypsum and skim coat based compounds."
+                },
+                {
+                    "id": 3, 
+                    "C": "Portland and Gypsum based compounds."
+                },
+                {
+                    "id": 4, 
+                    "D": "Portland and versatile based compounds."
+                },
+                {
+                    "correct": "C - Portland and Gypsum based compounds."
+                }
+            ]
+        }
+    ]
+}
